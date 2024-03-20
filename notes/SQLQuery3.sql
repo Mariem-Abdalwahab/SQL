@@ -1,4 +1,4 @@
-
+------------------------
 -- 6
 
 select d.Dnum, d.Dname, count(SSN)
